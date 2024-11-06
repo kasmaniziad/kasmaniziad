@@ -8,7 +8,7 @@ I'm a results-driven Full-Stack Tech Lead and Solution Architect with over 12 ye
 - **Frontend:** Angular (8+), AngularJS, jQuery, HTML5, CSS
 - **Backend:** .NET, SQL, Python (FastAPI)
 - **Mobile Development:** Android, Xamarin
-- **Databases:** SQL Server, MySQL, Oracle
+- **Databases:** MS SQL Server, MySQL, Oracle
 - **ERP & Systems Integration:** Oracle ERP, SAP, Oracle APEX
 - **Payment Integrations:** Apple Pay, Google Pay, CyberSource, QPAY
 - **Cloud & DevOps:** Azure AD, Azure APIM, Intune, GitHub Actions, Power Automate
