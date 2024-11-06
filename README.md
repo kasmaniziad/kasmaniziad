@@ -46,7 +46,7 @@ I'm a results-driven Full-Stack Tech Lead and Solution Architect with over 12 ye
 
 - **Email:** [kasmaniziad@outlook.com](mailto:kasmaniziad@outlook.com)
 - **LinkedIn:** [linkedin.com/in/kasmaniziad](https://linkedin.com/in/kasmaniziad)
-- **GitHub:** [github.com/kasmaniziad](https://github.com/kasmaniziad) _(link to your profile or repository)_
+- **GitHub:** [github.com/kasmaniziad](https://github.com/kasmaniziad)
 
 ---
 
