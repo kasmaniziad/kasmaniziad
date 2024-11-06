@@ -2,6 +2,8 @@
 
 I'm a results-driven Full-Stack Tech Lead and Solution Architect with over 12 years of experience delivering impactful tech solutions. Based in Doha, Qatar, I specialize in ERP integrations, payment solutions, and leveraging .NET, Angular, Python, and SQL to create seamless, data-driven applications. Passionate about transforming business needs into efficient and innovative solutions, I bring a growth-oriented, entrepreneurial mindset to every project.
 
+[![Watch the video](https://img.youtube.com/vi/rmXzbkkXGJU/0.jpg)](https://youtu.be/rmXzbkkXGJU)
+
 ## 🛠 Skills & Expertise
 
 - **Languages:** C#, Python, TypeScript
